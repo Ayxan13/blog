@@ -1,0 +1,4 @@
+[submodule "aykhan-blog/public"]
+	path = aykhan-blog/public
+	url = git@github.com:Ayxan13/Ayxan13.github.io.git
+	branch = master

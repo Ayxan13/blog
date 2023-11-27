@@ -1,0 +1,4 @@
+baseURL = 'http://www.aykhan.dev/'
+languageCode = 'en-us'
+title = "Aykhan's Blog"
+theme = "beautifulhugo"
